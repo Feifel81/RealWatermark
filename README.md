@@ -1,21 +1,44 @@
 # RealWatermark
 I am German User so the Interface is in German.
+
+
 Translations:
 Ordner auswählen > select folder with PDF-Files
+
+
 Ausgabeordner auswählen > select output folder
+
+
 Wasserzeichen Text eingeben (optional) > enter watermark text (option)
+
+
 Wasserzeichen-Bild hochladen> choose picture for image watermark
+
+
 Schriftgröße> textsize
+
+
 Tranzparenz %> transparency
+
+
 Skalierung des Bildes> scaling of picture
+
+
 Position des Wasserzeichens> position of watermark 
+
 Mitte> middle
 Oben Links> top left
 Oben Rechts> top right
 Unten Links> bottom left
 Unten Rechts> bottom right
+
+
 Farbe auswählen> choose color
+
+
 Start> guess what ;-)
+
+
 
 This with AI generated Programm converts PDF files into Pictures and Back to PDF to make a Real 1 Layer PDF with the Watermark
 
