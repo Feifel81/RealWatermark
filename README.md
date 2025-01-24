@@ -39,7 +39,7 @@ pip install -r requirements.txt
     
 3. Run the application:
 ```
-python RealWatermark.py
+python3 RealWatermark.py
 ```
 
 This project is licensed under the MIT License. See the LICENSE file for details.
