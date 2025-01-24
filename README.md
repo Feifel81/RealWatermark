@@ -63,8 +63,12 @@ python3 RealWatermark.py
 deactivate
 ```
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. 
+
+
 I made an AppImage for Linux.
+
+
 This AppImage is provided as it is. NO WARRANTY or BUGFIXES!
 I have no knowledge yet with coding or github. 
 
