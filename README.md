@@ -42,6 +42,31 @@ pip install -r requirements.txt
 python3 RealWatermark.py
 ```
 
+## IF you need a virtual environment: Open Terminal in Script folder and install it.
+```
+python3 -m venv venv
+```
+Activate the environment with:
+```
+source venv/bin/activate
+```
+Intall the requirements.txt in virtual environment:
+```
+pip install -r requirements.txt
+```
+When everything went well you can run the programm with:
+```
+python3 RealWatermark.py
+```
+# To deactivate virtual environment after just enter this in terminal:
+```
+deactivate
+```
+
 This project is licensed under the MIT License. See the LICENSE file for details.
 I made an AppImage for Linux.
 This AppImage is provided as it is. NO WARRANTY or BUGFIXES!
+I have no knowledge yet with coding or github. 
+
+### Sorry if something is not working as intended.
+
