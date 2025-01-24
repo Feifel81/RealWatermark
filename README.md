@@ -42,7 +42,7 @@ pip install -r requirements.txt
 python3 RealWatermark.py
 ```
 
-## IF you need a virtual environment: Open Terminal in Script folder and install it.
+### IF you need a virtual environment: Open Terminal in Script folder and install it.
 ```
 python3 -m venv venv
 ```
@@ -58,7 +58,7 @@ When everything went well you can run the programm with:
 ```
 python3 RealWatermark.py
 ```
-# To deactivate virtual environment after just enter this in terminal:
+### To deactivate virtual environment after just enter this in terminal:
 ```
 deactivate
 ```
