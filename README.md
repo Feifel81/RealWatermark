@@ -29,7 +29,7 @@ A Python application to add watermarks (text or image) to PDF files, converts th
 
 1. Clone this repository:
 ```
-git clone https://github.com/your-username/RealPDFWatermark.git
+git clone https://github.com/Feifel81/RealPDFWatermark.git
 ```
 
 2. Install the required dependencies:
